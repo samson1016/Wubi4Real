@@ -1,3 +1,8 @@
+This project is going to be a fork from the modified Wubi version - uefiwubi.
+We are going to install Ubuntu on the real partition instead of a loop device.
+However, the automation of the process is required.
+We will try to keep the original UI the same but different in the core.
+
 == Introduction ==
 
 Wubi is the Windows Ubuntu Installer. Wubi installs Ubuntu inside a file
